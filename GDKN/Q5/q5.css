@@ -1,0 +1,24 @@
+.fixed {
+  position: fixed;
+  bottom:300px;
+  right: 40;
+  width: 300px;
+  border: 3px solid #0daef3;
+}
+.absolute {
+      position: absolute;
+      top: 150px;
+      right: 80;
+      width: 200px;
+      height: 100px;
+      border: 3px solid #3f1c44;
+    }
+#head1{
+    color: #59055a;
+
+}
+#head2{
+    color: #0dd0f3;
+
+
+}
